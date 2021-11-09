@@ -1,0 +1,18 @@
+.odd{
+    background-color: #FFB6C1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id-one{
+    color: blue;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.number3{
+    font-size: 24px;;
+}
+#id-two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
